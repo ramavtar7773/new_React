@@ -1,0 +1,11 @@
+img{
+    height: 400px;
+    width: 400px;
+    margin-left: 20%;
+}
+
+h1{
+    color: rgb(102,94,94);
+    background-color: aqua;
+    font-size: 20px;
+} 
